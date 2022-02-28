@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Creating list of book in grid display, containing basic information. Using event handler, the book can be dropped.
 
 ## Available Scripts
 
